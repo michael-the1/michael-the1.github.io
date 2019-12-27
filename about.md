@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+tagline: About me
 ref: about
 order: 1
 ---
