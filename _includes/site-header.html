@@ -8,7 +8,9 @@
       <a class="site-title" href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a>
     {% endif %}
 
-    {{ page_refs }}
+    {% for page_ref in page_refs %}
+        {{ page_ref }}
+    {% endfor %}
 
     {% if page_refs %}
       <nav class="site-nav">
