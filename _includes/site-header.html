@@ -23,7 +23,6 @@
 
         <div class="trigger">
           {% for ref in page_refs %}
-            {{ ref }}
             {% assign my_page = site.pages | where: "ref", ref | first %}
             {% if my_page.title %}
               {% if my_page.title contains "404" %}
