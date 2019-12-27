@@ -1,3 +1,11 @@
+---
+layout: page
+title: About
+permalink: /about.html
+ref: about
+order: 0
+---
+
 # About
 
 Hi, welcome to my website.
