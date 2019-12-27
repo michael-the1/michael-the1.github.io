@@ -8,9 +8,7 @@
       <a class="site-title" href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a>
     {% endif %}
 
-    {% for page_ref in page_refs %}
-        {{ page_ref }}
-    {% endfor %}
+    {{ site.pages }}
 
     {% if page_refs %}
       <nav class="site-nav">
@@ -28,7 +26,6 @@
         <div class="trigger">
           {% for ref in page_refs %}
             {% assign my_page = site.pages | where: "ref", ref | first %}
-            <span>My page: {{ my_page }} - {{ my_page.title }}</span>
             {% if my_page.title %}
               {% if my_page.title contains "404" %}
               {% else %}
