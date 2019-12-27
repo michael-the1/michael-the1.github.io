@@ -1,5 +1,6 @@
 title: Michael The - Christian, Data Scientist, Photographer
 description: Food for thought
-twitter_username: michaelthe31415
+twitter:
+    username: michaelthe31415
 remote_theme: lorepirri/cayman-blog
 header_page_refs: ["now", "about", "contact"]
