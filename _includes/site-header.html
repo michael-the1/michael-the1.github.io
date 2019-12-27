@@ -8,8 +8,6 @@
       <a class="site-title" href="{{ "/" | absolute_url }}">{{ site.title | escape }}</a>
     {% endif %}
 
-    {{ site.pages }}
-
     {% if page_refs %}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -25,6 +23,7 @@
 
         <div class="trigger">
           {% for ref in page_refs %}
+            {{ ref }}
             {% assign my_page = site.pages | where: "ref", ref | first %}
             {% if my_page.title %}
               {% if my_page.title contains "404" %}
