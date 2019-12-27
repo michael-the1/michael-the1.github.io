@@ -2,7 +2,6 @@
 layout: page
 title: About
 ref: about
-order: 0
 ---
 
 # About
