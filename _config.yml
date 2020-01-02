@@ -3,4 +3,4 @@ description: Food for thought
 twitter:
     username: michaelthe31415
 remote_theme: lorepirri/cayman-blog
-header_page_refs: ["now", "about", "contact"]
+header_page_refs: ["about", "contact"]
