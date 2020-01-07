@@ -3,5 +3,5 @@ description: Welcome to my little corner on the internet
 twitter:
     username: michaelthe31415
 remote_theme: lorepirri/cayman-blog
-header_page_refs: ["about", "contact"]
+header_page_refs: ["about"]
 url: "https://www.michaelthe.com"
