@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "New Year's resolutions"
 date: 2020-01-01
 ---
