@@ -23,8 +23,8 @@ So, even when working from home, get dressed for work.
 ## 2. Take a walk - and plan them in 🚶‍♂️
 
 At the office, meetings are usually a great excuse to stand or walk around a bit.
-At home, you'll probably be working or in calls behind your computer all day.
-You probably know that you need to take regular breaks from your computer.
+At home, you'll probably be working behind your computer all day.
+You also probably know that you need to take regular breaks from your computer.
 I say: plan them in.
 I'm planning to take a walk at lunchtime (12:00) and after work (18:00 at the latest).
 
@@ -63,4 +63,4 @@ If I don't plan anything in, I can go days without interacting with someone.
 Video calls can actually make a big difference here. 
 So, if you have a webcam, use it!
 
-I hope these tips are helpful. If you have any more, tweet me [@michaelthe31415](https://twitter.com/michaelthe31415)
+*I hope these tips are helpful. If you have any more, tweet me [@michaelthe31415](https://twitter.com/michaelthe31415)*
