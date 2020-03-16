@@ -4,7 +4,7 @@ title: "5 working from home habits"
 date: 2020-03-16
 ---
 
-![](images/wfh_tree.jpg)
+![]({{ site.url }}/images/wfh_tree.jpg)
 *Go out on a walk and take in the view*
 
 In light of the coronavirus (COVID-19), many people are working from home, some even for the first time.
@@ -42,7 +42,7 @@ For me, I have a desk in my living room.
 Although it's not a perfectly separated space, what helps is that when I'm not sitting on my office chair, I'm simply not working.
 So in my case, it'd be more accurate to say that my designated working space is my office chair.
 
-![](images/wfh_setup.jpg)
+![]({{ site.url }}/images/wfh_setup.jpg)
 *My WFH setup*
 
 ## 4. Think of your posture 🤸‍♀️
